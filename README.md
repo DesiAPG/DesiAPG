@@ -27,5 +27,5 @@
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Java, Javascript, HTML, CSS...
 
