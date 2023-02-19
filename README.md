@@ -7,7 +7,7 @@
 
 👩‍💻 I'm currently working on study full stack Development
 
-🧠 I'm currently learning JavaScript
+🧠 I'm currently learning Spring Framework
 
 👯‍♀️ I'm looking to collaborate on many projects 
 
