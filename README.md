@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duvan Marin</h1>
-<h3 align="center">A passionate backend developer from Bogotá Colombia 😁</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=A+passionate+backend+developer+" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desireeee&label=Profile%20views&color=0e75b6&style=flat" alt="desireeee" /> </p>
 
