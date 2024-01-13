@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Duvan Marin</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=A+passionate+backend+developer+" alt="Typing SVG" /></a></h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=DesiAPG&label=Profile%20views&color=0e75b6&style=flat" alt="desireeee" /> </p>
-
-<p align="center" padding-right="5px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DesiAPG" alt="DesiAPG" /></a> </p>
-
 <p align="center"> <a href="https://twitter.com/desiapg" target="blank"><img src="https://img.shields.io/twitter/follow/desiapg?logo=twitter&style=for-the-badge" alt="desiapg" /></a> </p>
 
 - 🔭 I’m currently working on **improve my programming skills**
