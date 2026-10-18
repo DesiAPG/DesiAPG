@@ -11,11 +11,13 @@
 
 - 🤝 I’m looking for help with **real projects to work in**
 
-- 👨‍💻 All of my projects are available at [Soon](Soon)
+- 👨‍💻 Portfolio & projects: **[www.duvanmarin.dev](https://www.duvanmarin.dev)**
+
+- 🎬 Tech Autopsy (software post-mortems): [TikTok @tech.autopsy](https://www.tiktok.com/@tech.autopsy)
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **duvanmaringesan10@gmail.com**
+- 📫 How to reach me **duvan.marinc10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
