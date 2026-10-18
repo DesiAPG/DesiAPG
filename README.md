@@ -1,38 +1,67 @@
-<h1 align="center">Hi 👋, I'm Duvan Marin</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=A+passionate+backend+developer+" alt="Typing SVG" /></a></h3>
-
-<p align="center"> <a href="https://twitter.com/desiapg" target="blank"><img src="https://img.shields.io/twitter/follow/desiapg?logo=twitter&style=for-the-badge" alt="desiapg" /></a> </p>
-
-- 🔭 I’m currently working on **improve my programming skills**
-
-- 🌱 I’m currently learning **Spring boot and Angular**
-
-- 👯 I’m looking to collaborate on **backend projects**
-
-- 🤝 I’m looking for help with **real projects to work in**
-
-- 👨‍💻 Portfolio & projects: **[www.duvanmarin.dev](https://www.duvanmarin.dev)**
-
-- 🎬 Tech Autopsy (software post-mortems): [TikTok @tech.autopsy](https://www.tiktok.com/@tech.autopsy)
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **duvan.marinc10@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/desiapg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="desiapg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/duvan marin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duvan marin" height="30" width="40" /></a>
-<a href="https://medium.com/@desireeeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@desireeeee" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/desii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="desii" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.duvanmarin.dev">
+    <img src="./assets/banner.svg" alt="Duván Marín — Backend & Systems Architecture" width="100%" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.duvanmarin.dev"><img src="https://img.shields.io/badge/web-duvanmarin.dev-00FF66?style=for-the-badge&labelColor=0B0E14" alt="Web" /></a>
+  <a href="https://www.tiktok.com/@tech.autopsy"><img src="https://img.shields.io/badge/tiktok-@tech.autopsy-FF3366?style=for-the-badge&logo=tiktok&logoColor=FF3366&labelColor=0B0E14" alt="TikTok" /></a>
+  <a href="mailto:duvan.marinc10@gmail.com"><img src="https://img.shields.io/badge/mail-contacto-00E5FF?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0B0E14" alt="Email" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=desiapg&show_icons=true&locale=en&layout=compact" alt="desiapg" /></p>
+## `>` whoami
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=desiapg&show_icons=true&locale=en" alt="desiapg" /></p>
+```yaml
+name:      Duván Marín
+role:      Backend Engineer · Systems Architecture
+stack:     [Go, Java, AWS, PostgreSQL, Kafka, Docker]
+focus:     sistemas de alta concurrencia, microservicios y bases de datos que no se caen
+side_ops:  Tech Autopsy — post-mortems de los fallos de software más caros de la historia
+status:    disponible para consultoría / freelance
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desiapg&" alt="desiapg" /></p>
+## `>` expediente tech autopsy
 
+Cada video disecciona un incidente real de producción. Cada autopsia deja una herramienta open source para que no te pase a ti.
+
+| caso | incidente | causa de muerte | antídoto |
+| :--: | :-- | :-- | :-- |
+| `#001` | **GitLab · 2017** | `rm -rf` en la base de datos de producción equivocada: ~6 h de datos perdidos | [**go-guard**](https://github.com/DesiAPG/tech-autopsy-gitlab-2017) · Go |
+
+```diff
+- [ERROR] db1.cluster · rm -rf /var/opt/gitlab/postgresql/data
++ [ OK  ] go-guard · comando destructivo bloqueado: requiere aprobación de un segundo ingeniero
+```
+
+## `>` servicios
+
+| | servicio | qué hago |
+| :--: | :-- | :-- |
+| 🟥 | **Diseño de microservicios** | Descomposición de monolitos, contratos entre servicios, colas y resiliencia (circuit breaker, retries, idempotencia). |
+| 🟦 | **Optimización de bases de datos** | Índices, planes de ejecución, particionado y caché. Queries de segundos a milisegundos bajo carga real. |
+| 🟩 | **Cloud & AWS** | Infraestructura como código, autoescalado, observabilidad y guardarraíles para que nadie borre producción un viernes. |
+
+## `>` stack
+
+<p>
+  <img src="https://img.shields.io/badge/Go-0B0E14?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/Java-0B0E14?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-0B0E14?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/AWS-0B0E14?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0B0E14?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-0B0E14?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-0B0E14?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis" />
+  <img src="https://img.shields.io/badge/Kafka-0B0E14?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Docker-0B0E14?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-0B0E14?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-0B0E14?style=flat-square&logo=terraform&logoColor=844FBA" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Linux-0B0E14?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+</p>
+
+---
+
+<p align="center">
+  <code>$ echo "¿tu sistema necesita una autopsia antes de morir?"</code><br />
+  <a href="mailto:duvan.marinc10@gmail.com"><b>duvan.marinc10@gmail.com</b></a> · <a href="https://www.duvanmarin.dev"><b>www.duvanmarin.dev</b></a>
+</p>
