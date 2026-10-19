@@ -28,10 +28,13 @@ Cada video disecciona un incidente real de producción. Cada autopsia deja una h
 | caso | incidente | causa de muerte | antídoto |
 | :--: | :-- | :-- | :-- |
 | `#001` | **GitLab · 2017** | `rm -rf` en la base de datos de producción equivocada: ~6 h de datos perdidos | [**go-guard**](https://github.com/DesiAPG/tech-autopsy-gitlab-2017) · Go |
+| `#002` | **Cloudflare · 2019** | una regex con backtracking catastrófico en el WAF: CPU casi al 100 % en todo el mundo, 27 min caídos | [**regex-guard**](https://github.com/DesiAPG/tech-autopsy/tree/main/autopsia/002-cloudflare-2019-regex) · Go |
 
 ```diff
 - [ERROR] db1.cluster · rm -rf /var/opt/gitlab/postgresql/data
 + [ OK  ] go-guard · comando destructivo bloqueado: requiere aprobación de un segundo ingeniero
+- [ERROR] waf.edge · regla .*(?:.*=.*) → CPU ≈100 % en todo el planeta
++ [ OK  ] regex-guard · ✖ comodines-seguidos: la regla no pasa el CI
 ```
 
 ## `>` procedimientos
