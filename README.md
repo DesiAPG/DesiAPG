@@ -1,20 +1,20 @@
 <p align="center">
   <a href="https://www.duvanmarin.dev">
-    <img src="./assets/banner.svg" alt="Duván Marín — Backend & Systems Architecture" width="100%" />
+    <img src="./assets/banner.svg" alt="Duván Marín — Médico forense de software · Tech Autopsy" width="100%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.duvanmarin.dev"><img src="https://img.shields.io/badge/web-duvanmarin.dev-00FF66?style=for-the-badge&labelColor=0B0E14" alt="Web" /></a>
-  <a href="https://www.tiktok.com/@tech.autopsy"><img src="https://img.shields.io/badge/tiktok-@tech.autopsy-FF3366?style=for-the-badge&logo=tiktok&logoColor=FF3366&labelColor=0B0E14" alt="TikTok" /></a>
-  <a href="mailto:duvan.marinc10@gmail.com"><img src="https://img.shields.io/badge/mail-contacto-00E5FF?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0B0E14" alt="Email" /></a>
+  <a href="https://www.duvanmarin.dev"><img src="https://img.shields.io/badge/web-duvanmarin.dev-B57BFF?style=for-the-badge&labelColor=0C0A12" alt="Web" /></a>
+  <a href="https://www.tiktok.com/@tech.autopsy"><img src="https://img.shields.io/badge/tiktok-@tech.autopsy-B57BFF?style=for-the-badge&logo=tiktok&logoColor=EDE9F5&labelColor=0C0A12" alt="TikTok" /></a>
+  <a href="mailto:duvan.marinc10@gmail.com"><img src="https://img.shields.io/badge/mail-contacto-B57BFF?style=for-the-badge&logo=gmail&logoColor=EDE9F5&labelColor=0C0A12" alt="Email" /></a>
 </p>
 
 ## `>` whoami
 
 ```yaml
 name:      Duván Marín
-role:      Backend Engineer · Systems Architecture
+role:      Médico forense de software · Backend Engineer
 stack:     [Go, Java, AWS, PostgreSQL, Kafka, Docker]
 focus:     sistemas de alta concurrencia, microservicios y bases de datos que no se caen
 side_ops:  Tech Autopsy — post-mortems de los fallos de software más caros de la historia
@@ -34,29 +34,31 @@ Cada video disecciona un incidente real de producción. Cada autopsia deja una h
 + [ OK  ] go-guard · comando destructivo bloqueado: requiere aprobación de un segundo ingeniero
 ```
 
-## `>` servicios
+## `>` procedimientos
 
-| | servicio | qué hago |
-| :--: | :-- | :-- |
-| 🟥 | **Diseño de microservicios** | Descomposición de monolitos, contratos entre servicios, colas y resiliencia (circuit breaker, retries, idempotencia). |
-| 🟦 | **Optimización de bases de datos** | Índices, planes de ejecución, particionado y caché. Queries de segundos a milisegundos bajo carga real. |
-| 🟩 | **Cloud & AWS** | Infraestructura como código, autoescalado, observabilidad y guardarraíles para que nadie borre producción un viernes. |
+| | procedimiento | qué hago | entrega |
+| :--: | :-- | :-- | :-- |
+| `01` | **Autopsia de arquitectura** | Reviso tu sistema como si ya se hubiera caído: puntos únicos de falla, cuellos de botella, permisos peligrosos y backups sin probar. | Informe + plan de acción |
+| `02` | **Cirugía de base de datos** | Índices, planes de ejecución, particionado y caché. Queries de segundos a milisegundos bajo carga real. | Cambios + métricas antes/después |
+| `03` | **Guardarraíles cloud · AWS** | Infraestructura como código, autoescalado, observabilidad y controles para que un error humano no tumbe producción. | IaC + runbooks |
+
+→ **[Solicitar una autopsia](mailto:duvan.marinc10@gmail.com)**
 
 ## `>` stack
 
 <p>
-  <img src="https://img.shields.io/badge/Go-0B0E14?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
-  <img src="https://img.shields.io/badge/Java-0B0E14?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-0B0E14?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/AWS-0B0E14?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0B0E14?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-0B0E14?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-0B0E14?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis" />
-  <img src="https://img.shields.io/badge/Kafka-0B0E14?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/Docker-0B0E14?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-0B0E14?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-0B0E14?style=flat-square&logo=terraform&logoColor=844FBA" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Linux-0B0E14?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Go-14111D?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/Java-14111D?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-14111D?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/AWS-14111D?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-14111D?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-14111D?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-14111D?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis" />
+  <img src="https://img.shields.io/badge/Kafka-14111D?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Docker-14111D?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-14111D?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-14111D?style=flat-square&logo=terraform&logoColor=844FBA" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Linux-14111D?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
 </p>
 
 ---
