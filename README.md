@@ -29,6 +29,7 @@ Cada video disecciona un incidente real de producción. Cada autopsia deja una h
 | :--: | :-- | :-- | :-- |
 | `#001` | **GitLab · 2017** | `rm -rf` en la base de datos de producción equivocada: ~6 h de datos perdidos | [**go-guard**](https://github.com/DesiAPG/tech-autopsy-gitlab-2017) · Go |
 | `#002` | **Cloudflare · 2019** | una regex con backtracking catastrófico en el WAF: CPU casi al 100 % en todo el mundo, 27 min caídos | [**regex-guard**](https://github.com/DesiAPG/tech-autopsy/tree/main/autopsia/002-cloudflare-2019-regex) · Go |
+| `#003` | **Cloudflare · LavaRand** | una pared de lámparas de lava como fuente extra de entropía: basta con que una fuente siga secreta | [**entropy-mix**](https://github.com/DesiAPG/tech-autopsy/tree/main/anatomia/003-cloudflare-lavarand) · Go |
 
 ```diff
 - [ERROR] db1.cluster · rm -rf /var/opt/gitlab/postgresql/data
