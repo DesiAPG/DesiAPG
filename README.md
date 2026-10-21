@@ -30,6 +30,9 @@ Cada video disecciona un incidente real de producción. Cada autopsia deja una h
 | `#001` | **GitLab · 2017** | `rm -rf` en la base de datos de producción equivocada: ~6 h de datos perdidos | [**go-guard**](https://github.com/DesiAPG/tech-autopsy-gitlab-2017) · Go |
 | `#002` | **Cloudflare · 2019** | una regex con backtracking catastrófico en el WAF: CPU casi al 100 % en todo el mundo, 27 min caídos | [**regex-guard**](https://github.com/DesiAPG/tech-autopsy/tree/main/autopsia/002-cloudflare-2019-regex) · Go |
 | `#003` | **Cloudflare · LavaRand** | una pared de lámparas de lava como fuente extra de entropía: basta con que una fuente siga secreta | [**entropy-mix**](https://github.com/DesiAPG/tech-autopsy/tree/main/anatomia/003-cloudflare-lavarand) · Go |
+| `#004` | **Cloudflare · Pingora** | tiraron NGINX y escribieron su propio proxy en Rust: −70 % CPU y −67 % memoria con el mismo tráfico | [**pool-bench**](https://github.com/DesiAPG/tech-autopsy/tree/main/diagnostico/004-cloudflare-pingora) · Go |
+| `#005` | **Cloudflare · Quicksilver** | un log con secuencia lleva cada cambio a todo el planeta en ~2 s, y un hueco se detecta | [**qs-mini**](https://github.com/DesiAPG/tech-autopsy/tree/main/anatomia/005-cloudflare-quicksilver) · Go |
+| `#006` | **Cloudflare · 2025** | un archivo de features duplicado y un `unwrap()`: la peor caída desde 2019 | [**config-gate**](https://github.com/DesiAPG/tech-autopsy/tree/main/autopsia/006-cloudflare-2025-feature-file) · Go |
 
 ```diff
 - [ERROR] db1.cluster · rm -rf /var/opt/gitlab/postgresql/data
