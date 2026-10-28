@@ -41,6 +41,8 @@ Cada video disecciona un incidente real de producción. Cada autopsia deja una h
 | `B01` | **PHP · 2026** *(boletín)* | PHP2Shell: dos RCE en el núcleo de PHP, CVSS 9.2; actualizar es la única mitigación confiable | [**php-patch-check**](https://github.com/DesiAPG/tech-autopsy/tree/main/boletin/b01-php-patch-check) · Go |
 | `L01` | **CrowdStrike · 2024** *(video largo)* | un campo 21 que el sensor nunca entregaba, en un driver del kernel: 8,5 millones de equipos Windows caídos | [**content-gate**](https://github.com/DesiAPG/tech-autopsy/tree/main/autopsia/L01-crowdstrike-2024) · Go |
 | `B02` | **Anthropic · Scion** *(boletín)* | por qué reemplazó Git en su monorepo: un almacén direccionado por contenido | [**content-addressed**](https://github.com/DesiAPG/tech-autopsy/tree/main/boletin/b02-content-addressed) · Go |
+| `B03` | **GitLab · 2026** *(boletín)* | una regex con gravedad 10 de 10: desbordamiento de entero al compilarla, sin autenticación | [**gitlab-patch-check**](https://github.com/DesiAPG/tech-autopsy/tree/main/boletin/b03-gitlab-patch-check) · Go |
+| `B04` | **Anthropic · S-1** *(boletín)* | sale a bolsa: limitada por cómputo, cuatro familias de chips y una capa de orquestación | [**chip-router**](https://github.com/DesiAPG/tech-autopsy/tree/main/boletin/b04-chip-router) · Go |
 
 ```diff
 - [ERROR] db1.cluster · rm -rf /var/opt/gitlab/postgresql/data
