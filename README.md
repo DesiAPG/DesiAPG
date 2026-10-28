@@ -33,8 +33,12 @@ Cada video disecciona un incidente real de producción. Cada autopsia deja una h
 | `#004` | **Cloudflare · Pingora** | tiraron NGINX y escribieron su propio proxy en Rust: −70 % CPU y −67 % memoria con el mismo tráfico | [**pool-bench**](https://github.com/DesiAPG/tech-autopsy/tree/main/diagnostico/004-cloudflare-pingora) · Go |
 | `#005` | **Cloudflare · Quicksilver** | un log con secuencia lleva cada cambio a todo el planeta en ~2 s, y un hueco se detecta | [**qs-mini**](https://github.com/DesiAPG/tech-autopsy/tree/main/anatomia/005-cloudflare-quicksilver) · Go |
 | `#006` | **Cloudflare · 2025** | un archivo de features duplicado y un `unwrap()`: la peor caída desde 2019 | [**config-gate**](https://github.com/DesiAPG/tech-autopsy/tree/main/autopsia/006-cloudflare-2025-feature-file) · Go |
+| `#007` | **AWS · 2017** | un input mal escrito en un comando del playbook retiró los servidores que sostenían S3 en us-east-1: ≈ 4 h caído | [**capacity-guard**](https://github.com/DesiAPG/tech-autopsy/tree/main/autopsia/007-aws-2017-s3) · Go |
+| `#008` | **Figma · multijugador** | sin Operational Transformation: last-writer-wins por propiedad con un servidor central que decide el orden | [**multiplayer**](https://github.com/DesiAPG/tech-autopsy/tree/main/anatomia/008-figma-multiplayer) · Go |
 | `#009` | **Discord · 2023** | particiones calientes en 177 nodos de Cassandra; con ScyllaDB y request coalescing en Rust, 72 nodos y p99 de 15 ms | [**coalesce-bench**](https://github.com/DesiAPG/tech-autopsy/tree/main/diagnostico/009-discord-coalescing) · Go |
 | `B01` | **PHP · 2026** *(boletín)* | PHP2Shell: dos RCE en el núcleo de PHP, CVSS 9.2; actualizar es la única mitigación confiable | [**php-patch-check**](https://github.com/DesiAPG/tech-autopsy/tree/main/boletin/b01-php-patch-check) · Go |
+| `L01` | **CrowdStrike · 2024** *(video largo)* | un campo 21 que el sensor nunca entregaba, en un driver del kernel: 8,5 millones de equipos Windows caídos | [**content-gate**](https://github.com/DesiAPG/tech-autopsy/tree/main/autopsia/L01-crowdstrike-2024) · Go |
+| `B02` | **Anthropic · Scion** *(boletín)* | por qué reemplazó Git en su monorepo: un almacén direccionado por contenido | [**content-addressed**](https://github.com/DesiAPG/tech-autopsy/tree/main/boletin/b02-content-addressed) · Go |
 
 ```diff
 - [ERROR] db1.cluster · rm -rf /var/opt/gitlab/postgresql/data
