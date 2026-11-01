@@ -43,6 +43,8 @@ Cada video disecciona un incidente real de producción. Cada autopsia deja una h
 | `B02` | **Anthropic · Scion** *(boletín)* | por qué reemplazó Git en su monorepo: un almacén direccionado por contenido | [**content-addressed**](https://github.com/DesiAPG/tech-autopsy/tree/main/boletin/b02-content-addressed) · Go |
 | `B03` | **GitLab · 2026** *(boletín)* | una regex con gravedad 10 de 10: desbordamiento de entero al compilarla, sin autenticación | [**gitlab-patch-check**](https://github.com/DesiAPG/tech-autopsy/tree/main/boletin/b03-gitlab-patch-check) · Go |
 | `B04` | **Anthropic · S-1** *(boletín)* | sale a bolsa: limitada por cómputo, cuatro familias de chips y una capa de orquestación | [**chip-router**](https://github.com/DesiAPG/tech-autopsy/tree/main/boletin/b04-chip-router) · Go |
+| `L02` | **xz · 2024** *(video largo)* | una puerta trasera que vivía solo en el tarball, plantada durante 2 años; la delató medio segundo de CPU | [**release-diff**](https://github.com/DesiAPG/tech-autopsy/tree/main/autopsia/L02-xz-2024) · Go |
+| `#012` | **Atlassian · 2022** | una API de borrado que aceptaba cualquier tipo de ID: 883 sitios de 775 clientes borrados en 23 min | [**softdel**](https://github.com/DesiAPG/tech-autopsy/tree/main/autopsia/012-atlassian-2022-soft-delete) · Go |
 
 ```diff
 - [ERROR] db1.cluster · rm -rf /var/opt/gitlab/postgresql/data
