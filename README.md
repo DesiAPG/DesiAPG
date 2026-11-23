@@ -1,12 +1,13 @@
 <p align="center">
   <a href="https://www.duvanmarin.dev">
-    <img src="./assets/banner.svg" alt="Duván Marín — Médico forense de software · Tech Autopsy" width="100%" />
+    <img src="./assets/banner.svg" alt="Duván Marín — Médico forense de software · Autopsia Tech" width="100%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.duvanmarin.dev"><img src="https://img.shields.io/badge/web-duvanmarin.dev-B57BFF?style=for-the-badge&labelColor=0C0A12" alt="Web" /></a>
-  <a href="https://www.tiktok.com/@tech.autopsy"><img src="https://img.shields.io/badge/tiktok-@tech.autopsy-B57BFF?style=for-the-badge&logo=tiktok&logoColor=EDE9F5&labelColor=0C0A12" alt="TikTok" /></a>
+  <a href="https://www.tiktok.com/@autopsia_tech"><img src="https://img.shields.io/badge/tiktok-@autopsia__tech-B57BFF?style=for-the-badge&logo=tiktok&logoColor=EDE9F5&labelColor=0C0A12" alt="TikTok" /></a>
+  <a href="https://www.youtube.com/@autopsia_tech"><img src="https://img.shields.io/badge/youtube-@autopsia__tech-B57BFF?style=for-the-badge&logo=youtube&logoColor=EDE9F5&labelColor=0C0A12" alt="YouTube" /></a>
   <a href="mailto:duvan.marinc10@gmail.com"><img src="https://img.shields.io/badge/mail-contacto-B57BFF?style=for-the-badge&logo=gmail&logoColor=EDE9F5&labelColor=0C0A12" alt="Email" /></a>
 </p>
 
@@ -17,11 +18,11 @@ name:      Duván Marín
 role:      Médico forense de software · Backend Engineer
 stack:     [Go, Java, AWS, PostgreSQL, Kafka, Docker]
 focus:     sistemas de alta concurrencia, microservicios y bases de datos que no se caen
-side_ops:  Tech Autopsy — post-mortems de los fallos de software más caros de la historia
+side_ops:  Autopsia Tech — post-mortems de los fallos de software más caros de la historia
 status:    disponible para consultoría / freelance
 ```
 
-## `>` expediente tech autopsy
+## `>` expediente autopsia tech
 
 Cada video disecciona un incidente real de producción. Cada autopsia deja una herramienta open source para que no te pase a ti.
 
